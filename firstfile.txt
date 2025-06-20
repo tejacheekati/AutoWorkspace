@@ -1,0 +1,2 @@
+Welcome to Git
+we are adding changes to git
